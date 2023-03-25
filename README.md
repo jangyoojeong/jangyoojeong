@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 | 7주차 |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
 | 8주차 |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
 
