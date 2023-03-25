@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ####  🔨 Tools
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
  <!--
  ##  🍎 iOS 커리큘럼
 
@@ -43,5 +45,5 @@ Here are some ideas to get you started:
 | 7주차 |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
 | 8주차 |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
+
 
