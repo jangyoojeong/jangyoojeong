@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <br><br>
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangyoojeong&repo=Programmers-Test)](https://github.com/jangyoojeong/Programmers-Test)
+
 </div>
  <!--
  ##  🍎 iOS 커리큘럼
