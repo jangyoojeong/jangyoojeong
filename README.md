@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
-<br><br>
+<br>
 <h3 align="center"> 🔨 Tools</h3>
 <p align = "center">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
-
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangyoojeong&layout=compact&theme=dark)
-
+#
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangyoojeong&repo=Programmers-Test)
 </div>
  <!--
