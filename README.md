@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
-#
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangyoojeong&layout=compact&theme=dark)
-#
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangyoojeong&repo=Programmers-Test)
 </div>
  <!--
