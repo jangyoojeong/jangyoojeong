@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 <br>
-<h3 align="center"> 🔨 Tools</h3>
+<h3 align="center"> 🔨 Tools </h3>
 <p align = "center">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </p>
 <br><br>
 <div align="center">
