@@ -39,9 +39,12 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangyoojeong&repo=Programmers-Test)](https://github.com/jangyoojeong/Programmers-Test)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangyoojeong&layout=compact&theme=tokyonight)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangyoojeong&repo=Programmers-Test)
 </div>
  <!--
  ##  🍎 iOS 커리큘럼
