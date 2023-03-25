@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Hello-!!&fontSize=90) -->
 :laughing:
- <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JavaScript&logoColor=white"/>
  <!--
  ##  🍎 iOS 커리큘럼
 
