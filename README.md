@@ -1,5 +1,10 @@
 
-<h3 align="center"> Hi there 👋 </h3>
+
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center">
+👶금융SI 3년 개발자입니다 🔥🔥🔥
+</p>
+
 
 <!--
 **jangyoojeong/jangyoojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
