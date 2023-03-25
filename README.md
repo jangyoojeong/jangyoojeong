@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </p>
 <br><br>
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
-
+</div>
  <!--
  ##  🍎 iOS 커리큘럼
 
