@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Hello-!!&fontSize=90) -->
 :laughing:
  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
- 
+ <!--
  ##  🍎 iOS 커리큘럼
 
 | Week | 세미나 | 과제 |커리큘럼 내용 |
@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 | 6주차 |  |  |서버 합동 세미나 + 솝커톤  |
 | 7주차 |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
 | 8주차 |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
- 
+ -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyoojeong&show_icons=true&theme=dark)
 
